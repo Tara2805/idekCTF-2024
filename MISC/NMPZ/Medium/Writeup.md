@@ -48,3 +48,21 @@ the landscape screams norway to me with the mountain views and small pointed col
 i search 'stairs to viewpoint norway'
 i find The port town of Ålesund
 5,bcc9a94dd9b9026121dd4a7b5d106a87
+
+a_circle
+military landscape with a golden church shaped building and an ikea lookalike blue building to the other side
+I look up the church, the tanks, plane and symbols i see but they are not unique enough to identify
+i look at the dome, i reverse image search it and find Park 70 Letiya Velikoy Pobedy
+![alt text](image-4.png)
+6,b047238f02c1753e02473be44696319b
+
+idek_islands
+tropical coastal area
+we see a 'no trespassing' sign
+
+
+drunk_driving
+telegraph pole with id 'NR 10 166'
+i looked up country code and couldnt find any that correspond to NR
+there is a chinese owned electric company that is called NR but their website is blocked in my country
+
