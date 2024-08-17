@@ -6,3 +6,45 @@ we also see a thai flag
 locate the AH123 Motorway
 find the motorway and hospital lined up parallel
 1,1755e5bcb85dc2786de932d826419f56
+
+and_my_compass
+coastal road
+opposite is snow tipped mountains
+not really much else
+
+sea_adventure
+coastal tourism town
+boat with 'sea adventages' at the side
+green bus route 
+another towed boat covered and called 'sea hawk'
+'FOR SALE' with missing digits, those seen are '43 4107'
+couldn't make a lot out, tried to unblue images -  didn't work
+searched 'Sea adventure tours orange boat' and found the boat
+![alt text](image.png)
+Location: Bugibba, Malta
+go round the coast,
+https://www.google.com/maps/@35.9509172,14.4090519,3a,60y,246.54h,84.88t/data=!3m6!1e1!3m4!1sSbmTAcVOBCziYtTzPY4cCw!2e0!7i13312!8i6656?coh=205409&entry=ttu
+3,5dd302f03e495b7a888a4b66686ccec0
+
+beach_property
+We land in a clearly divided area
+Rich on one side, slum on another
+feels like brazil
+i see a water tank with 'Fortlev' on it
+search it - yep brazil
+![alt text](image-1.png)
+i see 'sa cavalcante' painted on the green division wall - i search it and it a brazilian real estate development company
+i search the website but a lot of the properties are not located next to a shanti town
+so i screen grab the unqiue building seen, reverse search it and its a hotel
+![alt text](image-2.png)
+Av. dos Holandeses, Ponta D'areia, Sao Luiz, 65075-650, Brazil
+i then search lucio futevolei sao luis, i find an image on facevook titled luciano_futevolei.slz, i search luciano_futevolei and i get the location
+![alt text](image-3.png)
+4,227b1b59720a42a04f2cff396f5a41a6
+
+stairway_to_heaven
+coastal steps above a pictureque town
+the landscape screams norway to me with the mountain views and small pointed coloured attached houses
+i search 'stairs to viewpoint norway'
+i find The port town of Ålesund
+5,bcc9a94dd9b9026121dd4a7b5d106a87
