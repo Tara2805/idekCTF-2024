@@ -56,5 +56,8 @@ There is a chinese owned electric company that is called NR but their website is
 # wrong_side
 
 # pulled_over#
-I think i saw this on grand tour! 
+I think i saw this on The Grand Tour! 
 
+
+# ISSUES 
+Now I went for a break and came back with ~10 hours until the CTF finished. However, when i came back the organisers had ran out of Google cloud credits so there were major issues arising to the quality of the images. The images were increasingly blurry and at one point the colours became inverted. It meant I could'nt reverse image search or read any lettering. A few hours later the site went down so I was unable to find all the keys, when I was so close! 
