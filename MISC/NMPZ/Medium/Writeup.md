@@ -49,7 +49,6 @@ I also look at the dome, I reverse image search it and find Park 70 Letiya Velik
 # idek_islands
 A tropical coastal area. We see a 'no trespassing' sign. It very much feels carribean. 
 
-
 # drunk_driving
 A telegraph pole with id 'NR 10 166'. I looked up country code and could'nt find any that correspond to NR.
 There is a chinese owned electric company that is called NR but their website is blocked in my country. 
