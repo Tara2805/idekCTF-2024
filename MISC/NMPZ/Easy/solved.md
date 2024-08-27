@@ -24,55 +24,59 @@ So now we have the location Sydney. Now I can have a look at the company branded
 
 **Flag 3:** 3,c82846bd8de1579487c290fe0ef30700
 
-green_car
-'atencion' sign = spanish
-we see a monoment that resemables the effiel tower
-search effiel tower replicas spain
-https://www.wonders-of-the-world.net/Eiffel-Tower/Repliques/Replicas-of-the-Eiffel-tower-in-Spain.php
-'Torrejon' city 'Torre Eiffel'
-![alt text](image-5.png)
-![alt text](image-4.png)
-4,399a088ff464a1a43ed3d6864c7f50b5
+# green_car
+We can see a sign stated 'atencion'. Googling tells me this is spanish, so I've already identified it's a spanish speaking country. I can see a monoment that resemables the Eiffel tower to the side. I search for Eiffel tower replicas located in Spain. Sure enough, there are whole articles detailing these replicas so i just had to go down the list *https://www.wonders-of-the-world.net/Eiffel-Tower/Repliques/Replicas-of-the-Eiffel-tower-in-Spain.php*. 
 
-posuto_py
-japanese lettering (seen via 'JP' Post)
-search 'Mita Garden hills' (seen on building) Japan
-located near tokyo tower - effil replica
-![alt text](image-6.png)
-5,fc26a083d35cb9d6b474580017f8bdfa
+![alt text](spain.png)
 
-icc
-Germany - from language seen on building 'das neue'
-see 'Funkturm Restaurant' 
-search it - located in Berlin
-![alt text](image-7.png)
-6,836c35892e7643f71668376d1716e44e
+So I know this is 'Torrejon' city 'Torre Eiffel'. I simply search this on maps, and I get the location.
 
-imax
-we see another effil tower replica
-beside a retail park
+![alt text](green_car.png)
 
-all_eyes_on_us
-we are under the effil replica
-english spelling
-search aldo supermarket -> bulgarian chain
-i remember looking at a effiel replica from bulgaria in the article
-its the same one
-![alt text](image-8.png)
-8,158686d31f2b18c862c765f95c336a0b
+**Flag 4:** 4,399a088ff464a1a43ed3d6864c7f50b5
 
-panasonic
-modern replica of effiel seen, look at article
-asian country due to lettering seen
-located next to 'Hisayaodori park' seen in map images
-search it -> Nagoya city
-![alt text](image-9.png)
-9,a1e3b275a3e73cd964ffd840063204be
+# posuto_py
+From the japanese lettering (seen via 'JP' Post), I know we are in Japan. The building at the side has its name printed on the side. So I search 'Mita Garden hills' (seen on building) Japan. It is located near tokyo tower - another Eiffel replica! Some simple zooming around gets us the exact location.
 
-deja_vu
-we see a chimney, a church tower and a company building named 'Tallink'
-we see a signpost with 'kalamaja' -  a neighbourhood in estonia
-search kalamaja chimney -> part of the former Tallinn Power Plant
-10,201189c04aae837ab90f86c9d5747beb
+![alt text](posuto_py.png)
 
-flag1 = b'idek{very_iconic_tower_75029e39}'
+**Flag 5:** 5,fc26a083d35cb9d6b474580017f8bdfa
+
+# icc
+Already I know this location is within Germany, from language seen on building 'das neue'. At the side we can see 'Funkturm Restaurant'. By searching it we find it is exactly located in Berlin. 
+
+![alt text](icc.png)
+
+**Flag 6:** 6,836c35892e7643f71668376d1716e44e
+
+# imax
+We see another Eiffel Tower replica beside a retail park and cinema. I can't make out the lettering as the image is too blurry so i decide to move on instead of going through every Eiffel Tower replica in existance.
+
+# all_eyes_on_us
+We are under the a Eiffel replica. There is english spelling seen. I see and search for aldo supermarket. i find out it is a bulgarian chain. So now we know we are in Bulgaria. I remember looking at a Eiffel replica from bulgaria in the article quoted above. Its the same one!
+
+![alt text](all_eyes_on_us.png)
+
+**Flag 8:** 8,158686d31f2b18c862c765f95c336a0b
+
+# panasonic
+A modern replica of Eiffel seen in the distance, I look at the article again. It is an asian country due to lettering seen. I quickly find it is located next to 'Hisayaodori park' seen in map image. I search it and find the it is within Nagoya city.
+
+![alt text](panasonic.png)
+
+
+**Flag 9:** 9,a1e3b275a3e73cd964ffd840063204be
+
+# deja_vu
+We see a chimney, a church tower and a company building named 'Tallink'. We also see a signpost with 'kalamaja'. I google and discover it is a neighbourhood in Estonia. I search kalamaja chimney and see it is part of the former Tallinn Power Plant. 
+
+**Flag 10:** 10,201189c04aae837ab90f86c9d5747beb
+
+# Get the Flag
+
+1. Run flag.py
+2. We are prompted to insert each singular key/flag we have found
+3. We got 9/10 so we have completed the task
+4. Entering 9/10 will result in the final flag being outputted 
+
+**flag1** = b'idek{very_iconic_tower_75029e39}'
