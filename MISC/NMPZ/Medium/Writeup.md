@@ -66,3 +66,8 @@ telegraph pole with id 'NR 10 166'
 i looked up country code and couldnt find any that correspond to NR
 there is a chinese owned electric company that is called NR but their website is blocked in my country
 
+wrong_side
+
+pulled_over#
+think i saw this on grand tour
+
