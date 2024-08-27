@@ -56,7 +56,7 @@ There is a chinese owned electric company that is called NR but their website is
 # wrong_side
 
 # pulled_over#
-I think i saw this on The Grand Tour! 
+I think I saw this on The Grand Tour! 
 
 
 # ISSUES 
